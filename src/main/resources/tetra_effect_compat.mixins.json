@@ -1,0 +1,12 @@
+{
+    "required": true,
+    "minVersion": "0.8",
+    "package": "com.williamcain.tetraeffectcompat.mixin",
+    "compatibilityLevel": "JAVA_17",
+    "refmap": "tetra_effect_compat.refmap.json",
+    "mixins": [
+        "RandomEffectMixin"
+    ],
+    "client":[],
+    "server":[]
+}
